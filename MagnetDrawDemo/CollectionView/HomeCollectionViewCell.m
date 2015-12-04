@@ -20,8 +20,9 @@
     // selected background
     UIView *selectedView = [[UIView alloc]initWithFrame:self.bounds];
     self.selectedBackgroundView = selectedView;
-    self.selectedBackgroundView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"pink"]];
+//    self.selectedBackgroundView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"pink"]];
     
+    self.selectedBackgroundView.backgroundColor = [UIColor orangeColor];
 }
 
 @end
