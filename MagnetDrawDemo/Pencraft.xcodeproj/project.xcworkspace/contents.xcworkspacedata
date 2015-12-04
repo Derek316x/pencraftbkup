@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CollectionView.xcodeproj">
+      location = "self:/Users/xiulan/Projects/12-4/pencraftbkup/MagnetDrawDemo/Pencraft.xcodeproj">
    </FileRef>
 </Workspace>

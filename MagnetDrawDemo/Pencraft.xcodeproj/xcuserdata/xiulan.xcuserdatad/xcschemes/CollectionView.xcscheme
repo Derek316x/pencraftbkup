@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D907AC8C1BFD3FE9005D30A9"
-               BuildableName = "CollectionView.app"
-               BlueprintName = "CollectionView"
-               ReferencedContainer = "container:CollectionView.xcodeproj">
+               BuildableName = "Pencraft.app"
+               BlueprintName = "Pencraft"
+               ReferencedContainer = "container:Pencraft.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D907ACA81BFD3FEA005D30A9"
-               BuildableName = "CollectionViewTests.xctest"
-               BlueprintName = "CollectionViewTests"
-               ReferencedContainer = "container:CollectionView.xcodeproj">
+               BuildableName = "Pencraft.xctest"
+               BlueprintName = "PencraftTests"
+               ReferencedContainer = "container:Pencraft.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D907ACB31BFD3FEA005D30A9"
-               BuildableName = "CollectionViewUITests.xctest"
-               BlueprintName = "CollectionViewUITests"
-               ReferencedContainer = "container:CollectionView.xcodeproj">
+               BuildableName = "Pencraft.xctest"
+               BlueprintName = "PencraftUITests"
+               ReferencedContainer = "container:Pencraft.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D907AC8C1BFD3FE9005D30A9"
-            BuildableName = "CollectionView.app"
-            BlueprintName = "CollectionView"
-            ReferencedContainer = "container:CollectionView.xcodeproj">
+            BuildableName = "Pencraft.app"
+            BlueprintName = "Pencraft"
+            ReferencedContainer = "container:Pencraft.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D907AC8C1BFD3FE9005D30A9"
-            BuildableName = "CollectionView.app"
-            BlueprintName = "CollectionView"
-            ReferencedContainer = "container:CollectionView.xcodeproj">
+            BuildableName = "Pencraft.app"
+            BlueprintName = "Pencraft"
+            ReferencedContainer = "container:Pencraft.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D907AC8C1BFD3FE9005D30A9"
-            BuildableName = "CollectionView.app"
-            BlueprintName = "CollectionView"
-            ReferencedContainer = "container:CollectionView.xcodeproj">
+            BuildableName = "Pencraft.app"
+            BlueprintName = "Pencraft"
+            ReferencedContainer = "container:Pencraft.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

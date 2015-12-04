@@ -200,7 +200,7 @@
 		69F597471C0C113D00ED067E /* UIImage+animatedGIF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+animatedGIF.h"; sourceTree = "<group>"; };
 		69F597481C0C113D00ED067E /* UIImage+animatedGIF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+animatedGIF.m"; sourceTree = "<group>"; };
 		69F5974A1C0D2AF900ED067E /* CollectionView-Swift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CollectionView-Swift.h"; sourceTree = "<group>"; };
-		D907AC8D1BFD3FE9005D30A9 /* CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D907AC8D1BFD3FE9005D30A9 /* Pencraft.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pencraft.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D907AC911BFD3FE9005D30A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D907AC931BFD3FE9005D30A9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D907AC941BFD3FE9005D30A9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -209,10 +209,10 @@
 		D907AC9F1BFD3FEA005D30A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D907ACA21BFD3FEA005D30A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D907ACA41BFD3FEA005D30A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../CollectionView/Info.plist; sourceTree = "<group>"; };
-		D907ACA91BFD3FEA005D30A9 /* CollectionViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D907ACA91BFD3FEA005D30A9 /* Pencraft.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Pencraft.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D907ACAD1BFD3FEA005D30A9 /* CollectionViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewTests.m; sourceTree = "<group>"; };
 		D907ACAF1BFD3FEA005D30A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D907ACB41BFD3FEA005D30A9 /* CollectionViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D907ACB41BFD3FEA005D30A9 /* Pencraft.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Pencraft.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D907ACB81BFD3FEA005D30A9 /* CollectionViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewUITests.m; sourceTree = "<group>"; };
 		D907ACC61BFD4054005D30A9 /* HomeCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeCollectionViewController.h; sourceTree = "<group>"; };
 		D907ACC71BFD4054005D30A9 /* HomeCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeCollectionViewController.m; sourceTree = "<group>"; };
@@ -384,9 +384,9 @@
 		D907AC8E1BFD3FE9005D30A9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D907AC8D1BFD3FE9005D30A9 /* CollectionView.app */,
-				D907ACA91BFD3FEA005D30A9 /* CollectionViewTests.xctest */,
-				D907ACB41BFD3FEA005D30A9 /* CollectionViewUITests.xctest */,
+				D907AC8D1BFD3FE9005D30A9 /* Pencraft.app */,
+				D907ACA91BFD3FEA005D30A9 /* Pencraft.xctest */,
+				D907ACB41BFD3FEA005D30A9 /* Pencraft.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -467,9 +467,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D907AC8C1BFD3FE9005D30A9 /* CollectionView */ = {
+		D907AC8C1BFD3FE9005D30A9 /* Pencraft */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D907ACBD1BFD3FEA005D30A9 /* Build configuration list for PBXNativeTarget "CollectionView" */;
+			buildConfigurationList = D907ACBD1BFD3FEA005D30A9 /* Build configuration list for PBXNativeTarget "Pencraft" */;
 			buildPhases = (
 				D907AC891BFD3FE9005D30A9 /* Sources */,
 				D907AC8A1BFD3FE9005D30A9 /* Frameworks */,
@@ -479,14 +479,14 @@
 			);
 			dependencies = (
 			);
-			name = CollectionView;
+			name = Pencraft;
 			productName = CollectionView;
-			productReference = D907AC8D1BFD3FE9005D30A9 /* CollectionView.app */;
+			productReference = D907AC8D1BFD3FE9005D30A9 /* Pencraft.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D907ACA81BFD3FEA005D30A9 /* CollectionViewTests */ = {
+		D907ACA81BFD3FEA005D30A9 /* PencraftTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D907ACC01BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "CollectionViewTests" */;
+			buildConfigurationList = D907ACC01BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "PencraftTests" */;
 			buildPhases = (
 				D907ACA51BFD3FEA005D30A9 /* Sources */,
 				D907ACA61BFD3FEA005D30A9 /* Frameworks */,
@@ -497,14 +497,14 @@
 			dependencies = (
 				D907ACAB1BFD3FEA005D30A9 /* PBXTargetDependency */,
 			);
-			name = CollectionViewTests;
+			name = PencraftTests;
 			productName = CollectionViewTests;
-			productReference = D907ACA91BFD3FEA005D30A9 /* CollectionViewTests.xctest */;
+			productReference = D907ACA91BFD3FEA005D30A9 /* Pencraft.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D907ACB31BFD3FEA005D30A9 /* CollectionViewUITests */ = {
+		D907ACB31BFD3FEA005D30A9 /* PencraftUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D907ACC31BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "CollectionViewUITests" */;
+			buildConfigurationList = D907ACC31BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "PencraftUITests" */;
 			buildPhases = (
 				D907ACB01BFD3FEA005D30A9 /* Sources */,
 				D907ACB11BFD3FEA005D30A9 /* Frameworks */,
@@ -515,9 +515,9 @@
 			dependencies = (
 				D907ACB61BFD3FEA005D30A9 /* PBXTargetDependency */,
 			);
-			name = CollectionViewUITests;
+			name = PencraftUITests;
 			productName = CollectionViewUITests;
-			productReference = D907ACB41BFD3FEA005D30A9 /* CollectionViewUITests.xctest */;
+			productReference = D907ACB41BFD3FEA005D30A9 /* Pencraft.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -531,7 +531,7 @@
 				TargetAttributes = {
 					D907AC8C1BFD3FE9005D30A9 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = D89RJC2KAA;
+						DevelopmentTeam = 26RHXP32FH;
 					};
 					D907ACA81BFD3FEA005D30A9 = {
 						CreatedOnToolsVersion = 7.1;
@@ -545,7 +545,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D907AC881BFD3FE8005D30A9 /* Build configuration list for PBXProject "CollectionView" */;
+			buildConfigurationList = D907AC881BFD3FE8005D30A9 /* Build configuration list for PBXProject "Pencraft" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -558,9 +558,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D907AC8C1BFD3FE9005D30A9 /* CollectionView */,
-				D907ACA81BFD3FEA005D30A9 /* CollectionViewTests */,
-				D907ACB31BFD3FEA005D30A9 /* CollectionViewUITests */,
+				D907AC8C1BFD3FE9005D30A9 /* Pencraft */,
+				D907ACA81BFD3FEA005D30A9 /* PencraftTests */,
+				D907ACB31BFD3FEA005D30A9 /* PencraftUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -694,12 +694,12 @@
 /* Begin PBXTargetDependency section */
 		D907ACAB1BFD3FEA005D30A9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D907AC8C1BFD3FE9005D30A9 /* CollectionView */;
+			target = D907AC8C1BFD3FE9005D30A9 /* Pencraft */;
 			targetProxy = D907ACAA1BFD3FEA005D30A9 /* PBXContainerItemProxy */;
 		};
 		D907ACB61BFD3FEA005D30A9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D907AC8C1BFD3FE9005D30A9 /* CollectionView */;
+			target = D907AC8C1BFD3FE9005D30A9 /* Pencraft */;
 			targetProxy = D907ACB51BFD3FEA005D30A9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -821,7 +821,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.c4q.PenCraft.poopewr;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Pencraft;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "CollectionView/CollectionView-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -841,7 +841,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.c4q.PenCraft.poopewr;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Pencraft;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "CollectionView/CollectionView-Bridging-Header.h";
 			};
@@ -854,8 +854,8 @@
 				INFOPLIST_FILE = CollectionViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.CollectionViewTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectionView.app/CollectionView";
+				PRODUCT_NAME = Pencraft;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pencraft.app/Pencraft";
 			};
 			name = Debug;
 		};
@@ -866,8 +866,8 @@
 				INFOPLIST_FILE = CollectionViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.CollectionViewTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectionView.app/CollectionView";
+				PRODUCT_NAME = Pencraft;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pencraft.app/Pencraft";
 			};
 			name = Release;
 		};
@@ -877,7 +877,7 @@
 				INFOPLIST_FILE = CollectionViewUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.CollectionViewUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Pencraft;
 				TEST_TARGET_NAME = CollectionView;
 				USES_XCTRUNNER = YES;
 			};
@@ -889,7 +889,7 @@
 				INFOPLIST_FILE = CollectionViewUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nyc.c4q.xiulanshi.CollectionViewUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Pencraft;
 				TEST_TARGET_NAME = CollectionView;
 				USES_XCTRUNNER = YES;
 			};
@@ -898,7 +898,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D907AC881BFD3FE8005D30A9 /* Build configuration list for PBXProject "CollectionView" */ = {
+		D907AC881BFD3FE8005D30A9 /* Build configuration list for PBXProject "Pencraft" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D907ACBB1BFD3FEA005D30A9 /* Debug */,
@@ -907,7 +907,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D907ACBD1BFD3FEA005D30A9 /* Build configuration list for PBXNativeTarget "CollectionView" */ = {
+		D907ACBD1BFD3FEA005D30A9 /* Build configuration list for PBXNativeTarget "Pencraft" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D907ACBE1BFD3FEA005D30A9 /* Debug */,
@@ -916,7 +916,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D907ACC01BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "CollectionViewTests" */ = {
+		D907ACC01BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "PencraftTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D907ACC11BFD3FEB005D30A9 /* Debug */,
@@ -925,7 +925,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D907ACC31BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "CollectionViewUITests" */ = {
+		D907ACC31BFD3FEB005D30A9 /* Build configuration list for PBXNativeTarget "PencraftUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D907ACC41BFD3FEB005D30A9 /* Debug */,
